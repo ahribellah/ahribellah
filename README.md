@@ -7,7 +7,7 @@ My pronouns are **they/them**.
 I am currently working on:
 
 * A music livecoding system in Rust and [Mech](http://mech-lang.org/).
-* [Ports](https://games.ahribellah.space/retro/) of several retro games to modern systems.
+* [Ports](https://games.ahribellah.space/retro/) of several games to modern systems.
 
 I am always eager to discuss music, music software, retro computers, retro gaming, software preservation, and programming language design.
 
