@@ -1,6 +1,6 @@
 ![logo-github](https://user-images.githubusercontent.com/48262530/173964536-33d2cfa8-e8be-402e-a045-cf47160a69b7.png)
 
-Hi, I'm Ari. I am a programmer, musician, and retro computing enthusiast. My pronouns are **they/them**.
+Hi, I'm Ari. I am a programmer, game developer, musician, and retro computing enthusiast. My pronouns are **they/them**.
 
 I am currently working on:
 
