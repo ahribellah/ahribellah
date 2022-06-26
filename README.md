@@ -11,4 +11,4 @@ I am currently working on:
 
 I am always eager to discuss music, music software, retro computers, retro gaming, software preservation, and programming language design.
 
-You can find a list of all of my projects [here](http://ahribellah.space). My email is in my profile.
+You can find a list of all of my projects [here](http://ahribellah.space). You can also follow me on <a rel="me" href="https://tech.lgbt/@atilde">Mastodon</a>. My email is in my profile.
