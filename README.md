@@ -6,6 +6,7 @@ My pronouns are **they/them**.
 
 I am currently working on:
 
+* A creative coding framework.
 * An unnamed multiplayer interactive experience.
 * A port of The Adventures of El Ballo to the Godot engine.
 
