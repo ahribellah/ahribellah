@@ -10,5 +10,6 @@ My (programming) interests include:
 
 - Audio engineering
 - Creative coding
+- Game development
 - Retro computing
 - Programming language design
