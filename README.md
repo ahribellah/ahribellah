@@ -13,3 +13,5 @@ My (programming) interests include:
 - Game development
 - Retro computing
 - Programming language design
+
+You can find a list of my projects [here](https://meta.ahribellah.space/).
