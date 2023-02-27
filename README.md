@@ -14,6 +14,4 @@ My (programming) interests include:
 - Retro computing
 - Programming language design
 
-You can find a list of my projects [here](https://ahribellah.space/).
-
 I am currently in the process of moving all of my coding projects to [a self-hosted Forgejo instance](https://garden.folkofthefo.rest/ahribellah). This GitHub profile will serve exclusively to interact with projects that are hosted here and will not host or mirror any of my projects going forward.
