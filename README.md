@@ -8,6 +8,5 @@ My pronouns are **it/its**.
 
 My (programming) interests include:
 
-- Audio engineering
-- Creative coding
 - Game development
+- Audio engineering
